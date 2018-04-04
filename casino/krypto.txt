@@ -1,0 +1,24 @@
+!!! Bitte Monospace-Font einstellen, z.B. Courier New Bold !!!
+
+Kryptoarithmetisches Rätsel
+Dies ist ein "Constraint Satisfying Problem" (CSP).
+    S E N D
++   M O R E
+___________
+
+= M O N E Y
+
+(1) D + E      = Y + 10*X1.
+
+Bsp: D=8, E=9 => D+E=17 => Y=7, X1=1.
+     D=2, E=3 => D+E=5  => Y=5, X1=0.
+
+(2) N + R + X1 = E + 10*X2.
+(3) E + O + X2 = N + 10*X3.
+(4) S + M + X3 = O + 10*X4.
+(5)         X4 = M
+
+  9 5 6 7	  9 0 0 9
++ 1 0 8 5	  1 0 0 0
+_________	_________
+1 0 6 5 2	1 0 0 0 9
