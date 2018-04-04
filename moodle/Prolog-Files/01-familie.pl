@@ -1,8 +1,8 @@
 % Faktenbasis 
 maennlich(bernd). 
 weiblich(monika). 
-ehepaar(bernd,monika). 
 weiblich(samantha). 
+ehepaar(bernd,monika). 
 mutter(monika,samantha).
 
 % Der Vater eines Kindes ist mit der Mutter des Kindes verheiratet: 
